@@ -4,6 +4,7 @@
     "slug": "tut01",
     "version": "1.0.0",
     "orientation": "portrait",
+    "backgroundColor": "#a3a3a3",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
@@ -11,9 +12,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
